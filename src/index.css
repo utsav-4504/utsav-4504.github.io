@@ -43,15 +43,18 @@ body {
 }
 
 .bg-fixed-parallax {
-  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: scroll;
+  -webkit-background-attachment: scroll;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 769px) {
   .bg-fixed-parallax {
-    background-attachment: scroll;
+    background-attachment: fixed;
+    -webkit-background-attachment: fixed;
+    transform: translateZ(0);
   }
 }
 
