@@ -1,0 +1,5 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#e8e4de"/>
+  <rect x="60" y="60" width="1080" height="780" fill="#d8d2c8" stroke="#c0b8ac" stroke-width="1"/>
+  <text x="600" y="470" text-anchor="middle" fill="#6e665c" font-family="Georgia, serif" font-size="32">Featured  Dummy Image</text>
+</svg>

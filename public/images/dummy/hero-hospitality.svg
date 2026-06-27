@@ -1,0 +1,8 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#ebe6e0"/>
+  <rect x="150" y="200" width="1300" height="500" fill="#d8d0c6" rx="4"/>
+  <circle cx="400" cy="450" r="120" fill="#c9bfb0"/>
+  <circle cx="1200" cy="450" r="120" fill="#bfb4a4"/>
+  <text x="800" y="480" text-anchor="middle" fill="#5a5248" font-family="Georgia, serif" font-size="42">Hospitality  Dummy Image</text>
+  <text x="800" y="540" text-anchor="middle" fill="#8a8074" font-family="Arial, sans-serif" font-size="22">Utsav</text>
+</svg>
